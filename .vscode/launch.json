@@ -1,0 +1,68 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "bloc_exercise",
+            "cwd": "bloc_exercise",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "bloc_exercise (profile mode)",
+            "cwd": "bloc_exercise",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "bloc_exercise (release mode)",
+            "cwd": "bloc_exercise",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "provider_exercise",
+            "cwd": "provider_exercise",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "provider_exercise (profile mode)",
+            "cwd": "provider_exercise",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "provider_exercise (release mode)",
+            "cwd": "provider_exercise",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "riverpod_exercise",
+            "cwd": "riverpod_exercise",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "riverpod_exercise (profile mode)",
+            "cwd": "riverpod_exercise",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "riverpod_exercise (release mode)",
+            "cwd": "riverpod_exercise",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
